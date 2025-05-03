@@ -11,7 +11,10 @@
   "description": "",
   "dependencies": {
     "@azure/storage-blob": "^12.27.0",
+<<<<<<< HEAD
     "dotenv": "^16.5.0",
+=======
+>>>>>>> bafe742abd6dadea4ec9594aad8ad2fb4ceb1a0c
     "formidable": "^3.5.4",
     "mammoth": "^1.9.0",
     "open": "^10.1.1",
